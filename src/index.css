@@ -25,3 +25,9 @@ body {
   font-size: 16px;
   font-family: 'Josefin Sans', sans-serif;
 }
+
+@media only screen and (max-width: 850px) {
+  #root {
+    padding: 0;
+  }
+}
